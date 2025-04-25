@@ -1,2 +1,2 @@
-# carrer-website
-A carrer website made with Python,Flask,Databases,Frontend
+# career-website
+A career website made with Python,Flask,Databases,Frontend
